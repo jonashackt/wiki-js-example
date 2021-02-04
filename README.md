@@ -3,7 +3,7 @@ Using Wiki.js for a simple Enterprise collaboration system
 
 https://wiki.js.org/ seems to be a great alternative to the big costy enterprise collaboration systems... So simply start the setup using Compose with
 
-````
+```shell
 docker-compose up -d
 ```
 
